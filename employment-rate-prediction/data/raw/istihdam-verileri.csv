@@ -1,0 +1,547 @@
+yil,istanbul_turkiye,kirilim_bir,kirilim_iki,istihdam_bin_kisi,istihdam_orani
+2023,İstanbul,Cinsiyet,Erkek,4333,69.3
+2023,İstanbul,Cinsiyet,Kadın,2236,34.9
+2023,İstanbul,Yaş Grubu,15-19,264,24.0
+2023,İstanbul,Yaş Grubu,20-24,687,55.8
+2023,İstanbul,Yaş Grubu,25-34,1838,69.5
+2023,İstanbul,Yaş Grubu,35-54,3170,63.7
+2023,İstanbul,Yaş Grubu,55+,611,22.6
+2023,İstanbul,Eğitim,Okuma Yazma Bilmeyen,58,11.7
+2023,İstanbul,Eğitim,Lise Altı Eğitimliler,2379,42.1
+2023,İstanbul,Eğitim,Lise ve,1807,54.4
+2023,İstanbul,Eğitim,Yüksek,2326,73.0
+2023,İstanbul,Faaliyet Kolu,Tarım,30,
+2023,İstanbul,Faaliyet Kolu,Sanayi,1922,
+2023,İstanbul,Faaliyet Kolu,Hizmet,4617,
+2023,İstanbul,İş Yeri Büyüklüğü,1-9 Kişi,2447,
+2023,İstanbul,İş Yeri Büyüklüğü,11-19 Kişi,1036,
+2023,İstanbul,İş Yeri Büyüklüğü,20-49 Kişi,912,
+2023,İstanbul,İş Yeri Büyüklüğü,50 veya Daha,1225,
+2023,İstanbul,İş Yeri Büyüklüğü,50-249 Kişi,928,
+2023,İstanbul,İş Yeri Büyüklüğü,"Bilmiyor, Fakat 10 Kişiden Az",7,
+2023,İstanbul,İş Yeri Büyüklüğü,"Bilmiyor, Fakat 10 veya Daha Fazla Kişi",15,
+2023,İstanbul,İşteki durum,"Ücretli, Maaşlı ",5305,
+2023,İstanbul,İşteki durum,Kendi Hesabına ,1191,
+2023,İstanbul,İşteki durum,Ücretsiz Aile,73,
+2023,İstanbul,SGK Kayıt,Kayıtlı,5586,
+2023,İstanbul,SGK Kayıt,Kayıtlı ,984,
+2023,İstanbul,Tarım,Tarım,30,
+2023,İstanbul,Tarım,Tarım Dışı,6539,
+2022,İstanbul,Cinsiyet,Erkek,4197,67.9
+2022,İstanbul,Cinsiyet,Kadın,2083,33.2
+2022,İstanbul,Yaş Grubu,15-19,227,20.9
+2022,İstanbul,Yaş Grubu,20-24,670,53.1
+2022,İstanbul,Yaş Grubu,25-34,1813,68.1
+2022,İstanbul,Yaş Grubu,35-54,3048,63.0
+2022,İstanbul,Yaş Grubu,55+,521,19.9
+2022,İstanbul,Eğitim,Okuma Yazma Bilmeyen,69,13.4
+2022,İstanbul,Eğitim,Lise Altı Eğitimliler,2407,41.6
+2022,İstanbul,Eğitim,Lise ve,1659,52.4
+2022,İstanbul,Eğitim,Yüksek,2145,71.5
+2022,İstanbul,Faaliyet Kolu,Tarım,36,
+2022,İstanbul,Faaliyet Kolu,Sanayi,1975,
+2022,İstanbul,Faaliyet Kolu,Hizmet,4268,
+2022,İstanbul,İş Yeri Büyüklüğü,1-9 Kişi,2184,
+2022,İstanbul,İş Yeri Büyüklüğü,11-19 Kişi,1023,
+2022,İstanbul,İş Yeri Büyüklüğü,20-49 Kişi,979,
+2022,İstanbul,İş Yeri Büyüklüğü,50 veya Daha,1324,
+2022,İstanbul,İş Yeri Büyüklüğü,50-249 Kişi,756,
+2022,İstanbul,İş Yeri Büyüklüğü,"Bilmiyor, Fakat 10 Kişiden Az",4,
+2022,İstanbul,İş Yeri Büyüklüğü,"Bilmiyor, Fakat 10 veya Daha Fazla Kişi",10,
+2022,İstanbul,İşteki durum,"Ücretli, Maaşlı ",5116,
+2022,İstanbul,İşteki durum,Kendi Hesabına ,1097,
+2022,İstanbul,İşteki durum,Ücretsiz Aile,66,
+2022,İstanbul,SGK Kayıt,Kayıtlı,5400,
+2022,İstanbul,SGK Kayıt,Kayıtlı ,880,
+2022,İstanbul,Tarım,Tarım,36,
+2022,İstanbul,Tarım,Tarım Dışı,6243,
+2021,İstanbul,Cinsiyet,Erkek,3906,64.6
+2021,İstanbul,Cinsiyet,Kadın,1874,30.4
+2021,İstanbul,Yaş Grubu,15-19,207,19.2
+2021,İstanbul,Yaş Grubu,20-24,597,48.5
+2021,İstanbul,Yaş Grubu,25-34,1661,63.9
+2021,İstanbul,Yaş Grubu,35-54,2861,59.9
+2021,İstanbul,Yaş Grubu,55+,455,17.9
+2021,İstanbul,Eğitim,Okuma Yazma Bilmeyen,55,10.6
+2021,İstanbul,Eğitim,Lise Altı Eğitimliler,2311,38.9
+2021,İstanbul,Eğitim,Lise ve,1387,48.7
+2021,İstanbul,Eğitim,Yüksek,2028,69.5
+2021,İstanbul,Faaliyet Kolu,Tarım,27,
+2021,İstanbul,Faaliyet Kolu,Sanayi,1842,
+2021,İstanbul,Faaliyet Kolu,Hizmet,3911,
+2021,İstanbul,İş Yeri Büyüklüğü,1-9 Kişi,1999,
+2021,İstanbul,İş Yeri Büyüklüğü,11-19 Kişi,841,
+2021,İstanbul,İş Yeri Büyüklüğü,20-49 Kişi,988,
+2021,İstanbul,İş Yeri Büyüklüğü,50 veya Daha,1251,
+2021,İstanbul,İş Yeri Büyüklüğü,50-249 Kişi,649,
+2021,İstanbul,İş Yeri Büyüklüğü,"Bilmiyor, Fakat 10 Kişiden Az",36,
+2021,İstanbul,İş Yeri Büyüklüğü,"Bilmiyor, Fakat 10 veya Daha Fazla Kişi",17,
+2021,İstanbul,İşteki durum,"Ücretli, Maaşlı ",4812,
+2021,İstanbul,İşteki durum,Kendi Hesabına ,910,
+2021,İstanbul,İşteki durum,Ücretsiz Aile,59,
+2021,İstanbul,SGK Kayıt,Kayıtlı,4974,
+2021,İstanbul,SGK Kayıt,Kayıtlı ,807,
+2021,İstanbul,Tarım,Tarım,27,
+2021,İstanbul,Tarım,Tarım Dışı,5754,
+2020,İstanbul,Cinsiyet,Erkek,3672,62.058475
+2020,İstanbul,Cinsiyet,Kadın,1690,28.0
+2020,İstanbul,Yaş Grubu,15-19,189,17.8
+2020,İstanbul,Yaş Grubu,20-24,502,43.7
+2020,İstanbul,Yaş Grubu,25-34,1538,60.4
+2020,İstanbul,Yaş Grubu,35-54,2716,57.8
+2020,İstanbul,Yaş Grubu,55+,418,16.7
+2020,İstanbul,Eğitim,Okuma Yazma Bilmeyen,54,9.6
+2020,İstanbul,Eğitim,Lise Altı Eğitimliler,2332,38.5
+2020,İstanbul,Eğitim,Lise ve,1176,44.9
+2020,İstanbul,Eğitim,Yüksek,1800,66.2
+2020,İstanbul,Faaliyet Kolu,Tarım,48,
+2020,İstanbul,Faaliyet Kolu,Sanayi,1672,
+2020,İstanbul,Faaliyet Kolu,Hizmet,3643,
+2020,İstanbul,İş Yeri Büyüklüğü,10 ve Daha,2123,
+2020,İstanbul,İş Yeri Büyüklüğü,10-19 Kişi,417,
+2020,İstanbul,İş Yeri Büyüklüğü,20-49 Kişi,1098,
+2020,İstanbul,İş Yeri Büyüklüğü,250 veya Daha Fazla Kişi,1719,
+2020,İstanbul,İş Yeri Büyüklüğü,"Bilmiyor, Fakat ",2,
+2020,İstanbul,İş Yeri Büyüklüğü,"Bilmiyor, Fakat ",4,
+2020,İstanbul,İşteki durum,"Ücretli, Maaşlı ",4433,
+2020,İstanbul,İşteki durum,Kendi Hesabına ,872,
+2020,İstanbul,İşteki durum,Ücretsiz Aile,57,
+2020,İstanbul,SGK Kayıt,Kayıtlı,4365,
+2020,İstanbul,SGK Kayıt,Kayıtlı ,998,
+2020,İstanbul,Tarım,Tarım,48,
+2020,İstanbul,Tarım,Tarım Dışı,5315,
+2019,İstanbul,Cinsiyet,Erkek,3989,67.1
+2019,İstanbul,Cinsiyet,Kadın,1789,30.5
+2019,İstanbul,Yaş Grubu,15-19,272,25.5
+2019,İstanbul,Yaş Grubu,20-24,610,50.6
+2019,İstanbul,Yaş Grubu,25-34,1701,64.7
+2019,İstanbul,Yaş Grubu,35-54,2733,59.7
+2019,İstanbul,Yaş Grubu,55+,462,19.8
+2019,İstanbul,Eğitim,Okuma Yazma Bilmeyen,88,14.5
+2019,İstanbul,Eğitim,Lise Altı Eğitimliler,2664,43.1
+2019,İstanbul,Eğitim,Lise ve,1272,50.2
+2019,İstanbul,Eğitim,Yüksek,1754,70.3
+2019,İstanbul,Faaliyet Kolu,Tarım,69,
+2019,İstanbul,Faaliyet Kolu,Sanayi,1839,
+2019,İstanbul,Faaliyet Kolu,Hizmet,3869,
+2019,İstanbul,İş Yeri Büyüklüğü,10 ve Daha,2459,
+2019,İstanbul,İş Yeri Büyüklüğü,10-19 Kişi,445,
+2019,İstanbul,İş Yeri Büyüklüğü,20-49 Kişi,1057,
+2019,İstanbul,İş Yeri Büyüklüğü,250 veya Daha Fazla Kişi,1814,
+2019,İstanbul,İş Yeri Büyüklüğü,"Bilmiyor, Fakat ",3,
+2019,İstanbul,İş Yeri Büyüklüğü,"Bilmiyor, Fakat ",0,
+2019,İstanbul,İşteki durum,"Ücretli, Maaşlı ",4683,
+2019,İstanbul,İşteki durum,Kendi Hesabına ,1007,
+2019,İstanbul,İşteki durum,Ücretsiz Aile,88,
+2019,İstanbul,SGK Kayıt,Kayıtlı,4496,
+2019,İstanbul,SGK Kayıt,Kayıtlı ,1282,
+2019,İstanbul,Tarım,Tarım,69,
+2019,İstanbul,Tarım,Tarım Dışı,5708,
+2018,İstanbul,Cinsiyet,Erkek,4014,68.6
+2018,İstanbul,Cinsiyet,Kadın,1885,32.0
+2018,İstanbul,Yaş Grubu,15-19,273,25.5
+2018,İstanbul,Yaş Grubu,20-24,616,52.2
+2018,İstanbul,Yaş Grubu,25-34,1806,66.4
+2018,İstanbul,Yaş Grubu,35-54,2756,60.9
+2018,İstanbul,Yaş Grubu,55+,447,19.9
+2018,İstanbul,Eğitim,Okuma Yazma Bilmeyen,78,12.5
+2018,İstanbul,Eğitim,Lise Altı Eğitimliler,2751,44.0
+2018,İstanbul,Eğitim,Lise ve,1305,53.7
+2018,İstanbul,Eğitim,Yüksek,1765,72.4
+2018,İstanbul,Faaliyet Kolu,Tarım,70,
+2018,İstanbul,Faaliyet Kolu,Sanayi,1900,
+2018,İstanbul,Faaliyet Kolu,Hizmet,3929,
+2018,İstanbul,İş Yeri Büyüklüğü,10 ve Daha,2525,
+2018,İstanbul,İş Yeri Büyüklüğü,10-19 Kişi,422,
+2018,İstanbul,İş Yeri Büyüklüğü,20-49 Kişi,1078,
+2018,İstanbul,İş Yeri Büyüklüğü,250 veya Daha Fazla Kişi,1869,
+2018,İstanbul,İş Yeri Büyüklüğü,"Bilmiyor, Fakat ",4,
+2018,İstanbul,İş Yeri Büyüklüğü,"Bilmiyor, Fakat ",1,
+2018,İstanbul,İşteki durum,"Ücretli, Maaşlı ",4765,
+2018,İstanbul,İşteki durum,Kendi Hesabına ,1041,
+2018,İstanbul,İşteki durum,Ücretsiz Aile,92,
+2018,İstanbul,SGK Kayıt,Kayıtlı,4664,
+2018,İstanbul,SGK Kayıt,Kayıtlı ,1235,
+2018,İstanbul,Tarım,Tarım,70,
+2018,İstanbul,Tarım,Tarım Dışı,5829,
+2017,İstanbul,Cinsiyet,Erkek,3888,68.4
+2017,İstanbul,Cinsiyet,Kadın,1776,30.8
+2017,İstanbul,Yaş Grubu,15-19,254,23.9
+2017,İstanbul,Yaş Grubu,20-24,577,50.1
+2017,İstanbul,Yaş Grubu,25-34,1804,65.2
+2017,İstanbul,Yaş Grubu,35-54,2638,60.3
+2017,İstanbul,Yaş Grubu,55+,392,18.7
+2017,İstanbul,Eğitim,Okuma Yazma Bilmeyen,96,14.5
+2017,İstanbul,Eğitim,Lise Altı Eğitimliler,2676,43.6
+2017,İstanbul,Eğitim,Lise ve,1245,53.0
+2017,İstanbul,Eğitim,Yüksek,1647,71.4
+2017,İstanbul,Faaliyet Kolu,Tarım,66,
+2017,İstanbul,Faaliyet Kolu,Sanayi,1800,
+2017,İstanbul,Faaliyet Kolu,Hizmet,3799,
+2017,İstanbul,İş Yeri Büyüklüğü,10 ve Daha,2411,
+2017,İstanbul,İş Yeri Büyüklüğü,10-19 Kişi,449,
+2017,İstanbul,İş Yeri Büyüklüğü,20-49 Kişi,1038,
+2017,İstanbul,İş Yeri Büyüklüğü,250 veya Daha Fazla Kişi,1765,
+2017,İstanbul,İş Yeri Büyüklüğü,"Bilmiyor, Fakat ",0,
+2017,İstanbul,İş Yeri Büyüklüğü,"Bilmiyor, Fakat ",0,
+2017,İstanbul,İşteki durum,"Ücretli, Maaşlı ",4556,
+2017,İstanbul,İşteki durum,Kendi Hesabına ,1012,
+2017,İstanbul,İşteki durum,Ücretsiz Aile,97,
+2017,İstanbul,SGK Kayıt,Kayıtlı,4490,
+2017,İstanbul,SGK Kayıt,Kayıtlı ,1174,
+2017,İstanbul,Tarım,Tarım,66,
+2017,İstanbul,Tarım,Tarım Dışı,5598,
+2016,İstanbul,Cinsiyet,Erkek,3875,68.3
+2016,İstanbul,Cinsiyet,Kadın,1683,29.3
+2016,İstanbul,Yaş Grubu,15-19,279,25.3
+2016,İstanbul,Yaş Grubu,20-24,599,50.9
+2016,İstanbul,Yaş Grubu,25-34,1841,64.8
+2016,İstanbul,Yaş Grubu,35-54,2485,58.1
+2016,İstanbul,Yaş Grubu,55+,355,17.6
+2016,İstanbul,Eğitim,Okuma Yazma Bilmeyen,81,13.0
+2016,İstanbul,Eğitim,Lise Altı Eğitimliler,2681,42.8
+2016,İstanbul,Eğitim,Lise ve,1211,52.5
+2016,İstanbul,Eğitim,Yüksek,1585,71.6
+2016,İstanbul,Faaliyet Kolu,Tarım,51,
+2016,İstanbul,Faaliyet Kolu,Sanayi,1822,
+2016,İstanbul,Faaliyet Kolu,Hizmet,3685,
+2016,İstanbul,İş Yeri Büyüklüğü,10 ve Daha,2363,
+2016,İstanbul,İş Yeri Büyüklüğü,10-19 Kişi,523,
+2016,İstanbul,İş Yeri Büyüklüğü,20-49 Kişi,1014,
+2016,İstanbul,İş Yeri Büyüklüğü,250 veya Daha Fazla Kişi,1656,
+2016,İstanbul,İş Yeri Büyüklüğü,"Bilmiyor, Fakat ",2,
+2016,İstanbul,İş Yeri Büyüklüğü,"Bilmiyor, Fakat ",1,
+2016,İstanbul,İşteki durum,"Ücretli, Maaşlı ",4551,
+2016,İstanbul,İşteki durum,Kendi Hesabına ,920,
+2016,İstanbul,İşteki durum,Ücretsiz Aile,87,
+2016,İstanbul,SGK Kayıt,Kayıtlı,4494,
+2016,İstanbul,SGK Kayıt,Kayıtlı ,1064,
+2016,İstanbul,Tarım,Tarım,51,
+2016,İstanbul,Tarım,Tarım Dışı,5508,
+2015,İstanbul,Cinsiyet,Erkek,3748,67.1
+2015,İstanbul,Cinsiyet,Kadın,1558,27.7
+2015,İstanbul,Yaş Grubu,15-19,286,24.9
+2015,İstanbul,Yaş Grubu,20-24,627,52.3
+2015,İstanbul,Yaş Grubu,25-34,1799,64.8
+2015,İstanbul,Yaş Grubu,35-54,2297,55.5
+2015,İstanbul,Yaş Grubu,55+,298,15.3
+2015,İstanbul,Eğitim,Okuma Yazma Bilmeyen,67,10.4
+2015,İstanbul,Eğitim,Lise Altı Eğitimliler,2646,41.8
+2015,İstanbul,Eğitim,Lise ve,1147,51.4
+2015,İstanbul,Eğitim,Yüksek,1446,72.2
+2015,İstanbul,Faaliyet Kolu,Tarım,37,
+2015,İstanbul,Faaliyet Kolu,Sanayi,1922,
+2015,İstanbul,Faaliyet Kolu,Hizmet,3347,
+2015,İstanbul,İş Yeri Büyüklüğü,10 ve Daha,2219,
+2015,İstanbul,İş Yeri Büyüklüğü,10-19 Kişi,429,
+2015,İstanbul,İş Yeri Büyüklüğü,20-49 Kişi,1174,
+2015,İstanbul,İş Yeri Büyüklüğü,250 veya Daha Fazla Kişi,1467,
+2015,İstanbul,İş Yeri Büyüklüğü,"Bilmiyor, Fakat ",7,
+2015,İstanbul,İş Yeri Büyüklüğü,"Bilmiyor, Fakat ",10,
+2015,İstanbul,İşteki durum,"Ücretli, Maaşlı ",4384,
+2015,İstanbul,İşteki durum,Kendi Hesabına ,850,
+2015,İstanbul,İşteki durum,Ücretsiz Aile,72,
+2015,İstanbul,SGK Kayıt,Kayıtlı,4332,
+2015,İstanbul,SGK Kayıt,Kayıtlı ,974,
+2015,İstanbul,Tarım,Tarım,37,
+2015,İstanbul,Tarım,Tarım Dışı,5269,
+2014,İstanbul,Cinsiyet,Erkek,3643,66.4
+2014,İstanbul,Cinsiyet,Kadın,1454,26.5
+2014,İstanbul,Yaş Grubu,15-19,290,25.2
+2014,İstanbul,Yaş Grubu,20-24,584,50.2
+2014,İstanbul,Yaş Grubu,25-34,1731,63.9
+2014,İstanbul,Yaş Grubu,35-54,2235,54.8
+2014,İstanbul,Yaş Grubu,55+,256,13.6
+2014,İstanbul,Eğitim,Okuma Yazma Bilmeyen,59,9.1
+2014,İstanbul,Eğitim,Lise Altı Eğitimliler,2607,41.1
+2014,İstanbul,Eğitim,Lise ve,1131,51.3
+2014,İstanbul,Eğitim,Yüksek,1299,72.8
+2014,İstanbul,Faaliyet Kolu,Tarım,28,
+2014,İstanbul,Faaliyet Kolu,Sanayi,1870,
+2014,İstanbul,Faaliyet Kolu,Hizmet,3198,
+2014,İstanbul,İş Yeri Büyüklüğü,10 ve Daha,2105,
+2014,İstanbul,İş Yeri Büyüklüğü,10-19 Kişi,382,
+2014,İstanbul,İş Yeri Büyüklüğü,20-49 Kişi,981,
+2014,İstanbul,İş Yeri Büyüklüğü,250 veya Daha Fazla Kişi,1439,
+2014,İstanbul,İş Yeri Büyüklüğü,"Bilmiyor, Fakat ",83,
+2014,İstanbul,İş Yeri Büyüklüğü,"Bilmiyor, Fakat ",107,
+2014,İstanbul,İşteki durum,"Ücretli, Maaşlı ",4201,
+2014,İstanbul,İşteki durum,Kendi Hesabına ,836,
+2014,İstanbul,İşteki durum,Ücretsiz Aile,60,
+2014,İstanbul,SGK Kayıt,Kayıtlı,4137,
+2014,İstanbul,SGK Kayıt,Kayıtlı ,959,
+2014,İstanbul,Tarım,Tarım,28,
+2014,İstanbul,Tarım,Tarım Dışı,5068,
+2023,Türkiye,Cinsiyet,Erkek,21286,65.7
+2023,Türkiye,Cinsiyet,Kadın,10346,31.3
+2023,Türkiye,Yaş Grubu,15-19,1542,25.3
+2023,Türkiye,Yaş Grubu,20-24,2912,50.8
+2023,Türkiye,Yaş Grubu,25-34,8055,63.8
+2023,Türkiye,Yaş Grubu,35-54,14968,62.8
+2023,Türkiye,Yaş Grubu,55+,4155,24.2
+2023,Türkiye,Eğitim,Okuma Yazma Bilmeyen,742,15.2
+2023,Türkiye,Eğitim,Lise Altı Eğitimliler,13727,42.1
+2023,Türkiye,Eğitim,Lise ve,8074,54.0
+2023,Türkiye,Eğitim,Yüksek,9090,69.8
+2023,Türkiye,Faaliyet Kolu,Tarım,4695,
+2023,Türkiye,Faaliyet Kolu,Sanayi,8708,
+2023,Türkiye,Faaliyet Kolu,Hizmet,18230,
+2023,Türkiye,İş Yeri Büyüklüğü,1-9 Kişi,15202,
+2023,Türkiye,İş Yeri Büyüklüğü,10-19 Kişi,3589,
+2023,Türkiye,İş Yeri Büyüklüğü,20-49 Kişi,3588,
+2023,Türkiye,İş Yeri Büyüklüğü,50-249 Kişi,4880,
+2023,Türkiye,İş Yeri Büyüklüğü,250 veya Daha Fazla Kişi,4274,
+2023,Türkiye,İş Yeri Büyüklüğü,"Bilmiyor, Fakat 10 Kişiden Az",28,
+2023,Türkiye,İş Yeri Büyüklüğü,"Bilmiyor, Fakat 10 veya Daha Fazla Kişi",71,
+2023,Türkiye,İşteki durum,"Ücretli, Maaşlı ",22532,
+2023,Türkiye,İşteki durum,Kendi Hesabına ,6586,
+2023,Türkiye,İşteki durum,Ücretsiz Aile,2514,
+2023,Türkiye,SGK Kayıt,Kayıtlı,23381,
+2023,Türkiye,SGK Kayıt,Kayıtlı ,8252,
+2023,Türkiye,Tarım,Tarım,4695,
+2023,Türkiye,Tarım,Tarım Dışı,26938,
+2022,Türkiye,Cinsiyet,Erkek,20818,65.0
+2022,Türkiye,Cinsiyet,Kadın,9935,30.4
+2022,Türkiye,Yaş Grubu,15-19,1384,22.7
+2022,Türkiye,Yaş Grubu,20-24,2856,48.4
+2022,Türkiye,Yaş Grubu,25-34,7873,62.8
+2022,Türkiye,Yaş Grubu,35-54,14716,62.9
+2022,Türkiye,Yaş Grubu,55+,3923,23.4
+2022,Türkiye,Eğitim,Okuma Yazma Bilmeyen,810,15.7
+2022,Türkiye,Eğitim,Lise Altı Eğitimliler,13939,42.3
+2022,Türkiye,Eğitim,Lise ve,7512,52.9
+2022,Türkiye,Eğitim,Yüksek,8492,68.6
+2022,Türkiye,Faaliyet Kolu,Tarım,4866,
+2022,Türkiye,Faaliyet Kolu,Sanayi,8509,
+2022,Türkiye,Faaliyet Kolu,Hizmet,17378,
+2022,Türkiye,İş Yeri Büyüklüğü,1-9 Kişi,14889,
+2022,Türkiye,İş Yeri Büyüklüğü,10-19 Kişi,3372,
+2022,Türkiye,İş Yeri Büyüklüğü,20-49 Kişi,3727,
+2022,Türkiye,İş Yeri Büyüklüğü,50-249 Kişi,5025,
+2022,Türkiye,İş Yeri Büyüklüğü,250 veya Daha Fazla Kişi,3689,
+2022,Türkiye,İş Yeri Büyüklüğü,"Bilmiyor, Fakat 10 Kişiden Az",17,
+2022,Türkiye,İş Yeri Büyüklüğü,"Bilmiyor, Fakat 10 veya Daha Fazla Kişi",34,
+2022,Türkiye,İşteki durum,"Ücretli, Maaşlı ",21687,
+2022,Türkiye,İşteki durum,Kendi Hesabına ,6401,
+2022,Türkiye,İşteki durum,Ücretsiz Aile,2665,
+2022,Türkiye,SGK Kayıt,Kayıtlı,22523,
+2022,Türkiye,SGK Kayıt,Kayıtlı ,8229,
+2022,Türkiye,Tarım,Tarım,4866,
+2022,Türkiye,Tarım,Tarım Dışı,25887,
+2021,Türkiye,Cinsiyet,Erkek,19792,62.8
+2021,Türkiye,Cinsiyet,Kadın,9005,28.0
+2021,Türkiye,Yaş Grubu,15-19,1234,20.3
+2021,Türkiye,Yaş Grubu,20-24,2621,44.5
+2021,Türkiye,Yaş Grubu,25-34,7458,60.0
+2021,Türkiye,Yaş Grubu,35-54,13847,60.3
+2021,Türkiye,Yaş Grubu,55+,3636,22.2
+2021,Türkiye,Eğitim,Okuma Yazma Bilmeyen,733,14.3
+2021,Türkiye,Eğitim,Lise Altı Eğitimliler,13515,40.5
+2021,Türkiye,Eğitim,Lise ve,6544,49.5
+2021,Türkiye,Eğitim,Yüksek,8004,67.0
+2021,Türkiye,Faaliyet Kolu,Tarım,4948,
+2021,Türkiye,Faaliyet Kolu,Sanayi,7921,
+2021,Türkiye,Faaliyet Kolu,Hizmet,15928,
+2021,Türkiye,İş Yeri Büyüklüğü,1-9 Kişi,14245,
+2021,Türkiye,İş Yeri Büyüklüğü,10-19 Kişi,2892,
+2021,Türkiye,İş Yeri Büyüklüğü,20-49 Kişi,3579,
+2021,Türkiye,İş Yeri Büyüklüğü,50-249 Kişi,4799,
+2021,Türkiye,İş Yeri Büyüklüğü,250 veya Daha Fazla Kişi,3151,
+2021,Türkiye,İş Yeri Büyüklüğü,"Bilmiyor, Fakat 10 Kişiden Az",60,
+2021,Türkiye,İş Yeri Büyüklüğü,"Bilmiyor, Fakat 10 veya Daha Fazla Kişi",70,
+2021,Türkiye,İşteki durum,"Ücretli, Maaşlı ",20137,
+2021,Türkiye,İşteki durum,Kendi Hesabına ,5966,
+2021,Türkiye,İşteki durum,Ücretsiz Aile,2695,
+2021,Türkiye,SGK Kayıt,Kayıtlı,20441,
+2021,Türkiye,SGK Kayıt,Kayıtlı ,8355,
+2021,Türkiye,Tarım,Tarım,4948,
+2021,Türkiye,Tarım,Tarım Dışı,23848,
+2020,Türkiye,Cinsiyet,Erkek,18506,59.80143
+2020,Türkiye,Cinsiyet,Kadın,8306,26.275124
+2020,Türkiye,Yaş Grubu,15-19,1110,18.6
+2020,Türkiye,Yaş Grubu,20-24,2308,40.2
+2020,Türkiye,Yaş Grubu,25-34,7030,56.7
+2020,Türkiye,Yaş Grubu,35-54,13110,57.8
+2020,Türkiye,Yaş Grubu,55+,3254,20.6
+2020,Türkiye,Eğitim,Okuma Yazma Bilmeyen,704,13.4
+2020,Türkiye,Eğitim,Lise Altı Eğitimliler,12917,38.4
+2020,Türkiye,Eğitim,Lise ve,5787,46.8
+2020,Türkiye,Eğitim,Yüksek,7404,65.4
+2020,Türkiye,Faaliyet Kolu,Tarım,4716,
+2020,Türkiye,Faaliyet Kolu,Sanayi,7036,
+2020,Türkiye,Faaliyet Kolu,Hizmet,15060,
+2020,Türkiye,İş Yeri Büyüklüğü,10 ve Daha,14062,
+2020,Türkiye,İş Yeri Büyüklüğü,11-19 Kişi,1404,
+2020,Türkiye,İş Yeri Büyüklüğü,20-49 Kişi,3457,
+2020,Türkiye,İş Yeri Büyüklüğü,50 veya Daha,7832,
+2020,Türkiye,İş Yeri Büyüklüğü,"Bilmiyor, Fakat ",28,
+2020,Türkiye,İş Yeri Büyüklüğü,"Bilmiyor, Fakat ",30,
+2020,Türkiye,İşteki durum,"Ücretli, Maaşlı ",18719,
+2020,Türkiye,İşteki durum,Kendi Hesabına ,5620,
+2020,Türkiye,İşteki durum,Ücretsiz Aile,2473,
+2020,Türkiye,SGK Kayıt,Kayıtlı,18611,
+2020,Türkiye,SGK Kayıt,Kayıtlı ,8202,
+2020,Türkiye,Tarım,Tarım,4716,
+2020,Türkiye,Tarım,Tarım Dışı,22096,
+2019,Türkiye,Cinsiyet,Erkek,19156,63.1
+2019,Türkiye,Cinsiyet,Kadın,8924,28.7
+2019,Türkiye,Yaş Grubu,15-19,1385,22.8
+2019,Türkiye,Yaş Grubu,20-24,2481,44.4
+2019,Türkiye,Yaş Grubu,25-34,7359,59.7
+2019,Türkiye,Yaş Grubu,35-54,13402,59.8
+2019,Türkiye,Yaş Grubu,55+,3453,22.9
+2019,Türkiye,Eğitim,Okuma Yazma Bilmeyen,913,16.6
+2019,Türkiye,Eğitim,Lise Altı Eğitimliler,14164,41.9
+2019,Türkiye,Eğitim,Lise ve,5899,50.0
+2019,Türkiye,Eğitim,Yüksek,7104,68.4
+2019,Türkiye,Faaliyet Kolu,Tarım,5097,
+2019,Türkiye,Faaliyet Kolu,Sanayi,7110,
+2019,Türkiye,Faaliyet Kolu,Hizmet,15872,
+2019,Türkiye,İş Yeri Büyüklüğü,10 ve Daha,15126,
+2019,Türkiye,İş Yeri Büyüklüğü,11-19 Kişi,1398,
+2019,Türkiye,İş Yeri Büyüklüğü,20-49 Kişi,3717,
+2019,Türkiye,İş Yeri Büyüklüğü,50 veya Daha,7780,
+2019,Türkiye,İş Yeri Büyüklüğü,"Bilmiyor, Fakat ",33,
+2019,Türkiye,İş Yeri Büyüklüğü,"Bilmiyor, Fakat ",25,
+2019,Türkiye,İşteki durum,"Ücretli, Maaşlı ",19216,
+2019,Türkiye,İşteki durum,Kendi Hesabına ,5962,
+2019,Türkiye,İşteki durum,Ücretsiz Aile,2902,
+2019,Türkiye,SGK Kayıt,Kayıtlı,18387,
+2019,Türkiye,SGK Kayıt,Kayıtlı ,9692,
+2019,Türkiye,Tarım,Tarım,5097,
+2019,Türkiye,Tarım,Tarım Dışı,22983,
+2018,Türkiye,Cinsiyet,Erkek,19720,65.7
+2018,Türkiye,Cinsiyet,Kadın,9018,29.4
+2018,Türkiye,Yaş Grubu,15-19,1494,24.1
+2018,Türkiye,Yaş Grubu,20-24,2636,47.1
+2018,Türkiye,Yaş Grubu,25-34,7585,61.6
+2018,Türkiye,Yaş Grubu,35-54,13547,61.3
+2018,Türkiye,Yaş Grubu,55+,3476,24.0
+2018,Türkiye,Eğitim,Okuma Yazma Bilmeyen,985,17.6
+2018,Türkiye,Eğitim,Lise Altı Eğitimliler,15040,44.1
+2018,Türkiye,Eğitim,Lise ve,5988,53.0
+2018,Türkiye,Eğitim,Yüksek,6725,69.6
+2018,Türkiye,Faaliyet Kolu,Tarım,5297,
+2018,Türkiye,Faaliyet Kolu,Sanayi,7667,
+2018,Türkiye,Faaliyet Kolu,Hizmet,15774,
+2018,Türkiye,İş Yeri Büyüklüğü,10 ve Daha,15600,
+2018,Türkiye,İş Yeri Büyüklüğü,11-19 Kişi,1449,
+2018,Türkiye,İş Yeri Büyüklüğü,20-49 Kişi,3883,
+2018,Türkiye,İş Yeri Büyüklüğü,50 veya Daha,7753,
+2018,Türkiye,İş Yeri Büyüklüğü,"Bilmiyor, Fakat ",32,
+2018,Türkiye,İş Yeri Büyüklüğü,"Bilmiyor, Fakat ",20,
+2018,Türkiye,İşteki durum,"Ücretli, Maaşlı ",19536,
+2018,Türkiye,İşteki durum,Kendi Hesabına ,6190,
+2018,Türkiye,İşteki durum,Ücretsiz Aile,3012,
+2018,Türkiye,SGK Kayıt,Kayıtlı,19134,
+2018,Türkiye,SGK Kayıt,Kayıtlı ,9604,
+2018,Türkiye,Tarım,Tarım,5297,
+2018,Türkiye,Tarım,Tarım Dışı,23441,
+2017,Türkiye,Cinsiyet,Erkek,19460,65.6
+2017,Türkiye,Cinsiyet,Kadın,8729,28.9
+2017,Türkiye,Yaş Grubu,15-19,1486,23.7
+2017,Türkiye,Yaş Grubu,20-24,2591,46.3
+2017,Türkiye,Yaş Grubu,25-34,7631,61.8
+2017,Türkiye,Yaş Grubu,35-54,13206,60.7
+2017,Türkiye,Yaş Grubu,55+,3275,23.5
+2017,Türkiye,Eğitim,Okuma Yazma Bilmeyen,1013,17.7
+2017,Türkiye,Eğitim,Lise Altı Eğitimliler,15009,44.1
+2017,Türkiye,Eğitim,Lise ve,5747,52.5
+2017,Türkiye,Eğitim,Yüksek,6420,70.1
+2017,Türkiye,Faaliyet Kolu,Tarım,5464,
+2017,Türkiye,Faaliyet Kolu,Sanayi,7478,
+2017,Türkiye,Faaliyet Kolu,Hizmet,15246,
+2017,Türkiye,İş Yeri Büyüklüğü,10 ve Daha,15577,
+2017,Türkiye,İş Yeri Büyüklüğü,11-19 Kişi,1485,
+2017,Türkiye,İş Yeri Büyüklüğü,20-49 Kişi,3848,
+2017,Türkiye,İş Yeri Büyüklüğü,50 veya Daha,7239,
+2017,Türkiye,İş Yeri Büyüklüğü,"Bilmiyor, Fakat ",21,
+2017,Türkiye,İş Yeri Büyüklüğü,"Bilmiyor, Fakat ",19,
+2017,Türkiye,İşteki durum,"Ücretli, Maaşlı ",18960,
+2017,Türkiye,İşteki durum,Kendi Hesabına ,6094,
+2017,Türkiye,İşteki durum,Ücretsiz Aile,3134,
+2017,Türkiye,SGK Kayıt,Kayıtlı,18614,
+2017,Türkiye,SGK Kayıt,Kayıtlı ,9575,
+2017,Türkiye,Tarım,Tarım,5464,
+2017,Türkiye,Tarım,Tarım Dışı,22724,
+2016,Türkiye,Cinsiyet,Erkek,18893,65.1
+2016,Türkiye,Cinsiyet,Kadın,8312,28.0
+2016,Türkiye,Yaş Grubu,15-19,1489,23.6
+2016,Türkiye,Yaş Grubu,20-24,2551,46.0
+2016,Türkiye,Yaş Grubu,25-34,7556,61.0
+2016,Türkiye,Yaş Grubu,35-54,12565,59.5
+2016,Türkiye,Yaş Grubu,55+,3044,22.8
+2016,Türkiye,Eğitim,Okuma Yazma Bilmeyen,978,16.8
+2016,Türkiye,Eğitim,Lise Altı Eğitimliler,14670,43.5
+2016,Türkiye,Eğitim,Lise ve,5493,52.2
+2016,Türkiye,Eğitim,Yüksek,6064,70.1
+2016,Türkiye,Faaliyet Kolu,Tarım,5305,
+2016,Türkiye,Faaliyet Kolu,Sanayi,7283,
+2016,Türkiye,Faaliyet Kolu,Hizmet,14617,
+2016,Türkiye,İş Yeri Büyüklüğü,10 ve Daha,15001,
+2016,Türkiye,İş Yeri Büyüklüğü,11-19 Kişi,1530,
+2016,Türkiye,İş Yeri Büyüklüğü,20-49 Kişi,3749,
+2016,Türkiye,İş Yeri Büyüklüğü,50 veya Daha,6858,
+2016,Türkiye,İş Yeri Büyüklüğü,"Bilmiyor, Fakat ",36,
+2016,Türkiye,İş Yeri Büyüklüğü,"Bilmiyor, Fakat ",33,
+2016,Türkiye,İşteki durum,"Ücretli, Maaşlı ",18377,
+2016,Türkiye,İşteki durum,Kendi Hesabına ,5775,
+2016,Türkiye,İşteki durum,Ücretsiz Aile,3053,
+2016,Türkiye,SGK Kayıt,Kayıtlı,18095,
+2016,Türkiye,SGK Kayıt,Kayıtlı ,9111,
+2016,Türkiye,Tarım,Tarım,5305,
+2016,Türkiye,Tarım,Tarım Dışı,21901,
+2015,Türkiye,Cinsiyet,Erkek,18562,65.0
+2015,Türkiye,Cinsiyet,Kadın,8058,27.5
+2015,Türkiye,Yaş Grubu,15-19,1490,23.6
+2015,Türkiye,Yaş Grubu,20-24,2549,46.5
+2015,Türkiye,Yaş Grubu,25-34,7638,60.9
+2015,Türkiye,Yaş Grubu,35-54,12104,58.7
+2015,Türkiye,Yaş Grubu,55+,2840,22.0
+2015,Türkiye,Eğitim,Okuma Yazma Bilmeyen,1056,17.6
+2015,Türkiye,Eğitim,Lise Altı Eğitimliler,14650,43.3
+2015,Türkiye,Eğitim,Lise ve,5322,52.5
+2015,Türkiye,Eğitim,Yüksek,5593,71.0
+2015,Türkiye,Faaliyet Kolu,Tarım,5483,
+2015,Türkiye,Faaliyet Kolu,Sanayi,7246,
+2015,Türkiye,Faaliyet Kolu,Hizmet,13891,
+2015,Türkiye,İş Yeri Büyüklüğü,10 ve Daha,14892,
+2015,Türkiye,İş Yeri Büyüklüğü,11-19 Kişi,1423,
+2015,Türkiye,İş Yeri Büyüklüğü,20-49 Kişi,3756,
+2015,Türkiye,İş Yeri Büyüklüğü,50 veya Daha,6431,
+2015,Türkiye,İş Yeri Büyüklüğü,"Bilmiyor, Fakat ",59,
+2015,Türkiye,İş Yeri Büyüklüğü,"Bilmiyor, Fakat ",61,
+2015,Türkiye,İşteki durum,"Ücretli, Maaşlı ",17827,
+2015,Türkiye,İşteki durum,Kendi Hesabına ,5643,
+2015,Türkiye,İşteki durum,Ücretsiz Aile,3150,
+2015,Türkiye,SGK Kayıt,Kayıtlı,17683,
+2015,Türkiye,SGK Kayıt,Kayıtlı ,8937,
+2015,Türkiye,Tarım,Tarım,5483,
+2015,Türkiye,Tarım,Tarım Dışı,21137,
+2014,Türkiye,Cinsiyet,Erkek,18244,64.8
+2014,Türkiye,Cinsiyet,Kadın,7689,26.7
+2014,Türkiye,Yaş Grubu,15-19,1460,23.3
+2014,Türkiye,Yaş Grubu,20-24,2470,45.3
+2014,Türkiye,Yaş Grubu,25-34,7644,60.4
+2014,Türkiye,Yaş Grubu,35-54,11677,57.8
+2014,Türkiye,Yaş Grubu,55+,2681,21.6
+2014,Türkiye,Eğitim,Okuma Yazma Bilmeyen,1097,17.9
+2014,Türkiye,Eğitim,Lise Altı Eğitimliler,14584,43.3
+2014,Türkiye,Eğitim,Lise ve,5167,51.9
+2014,Türkiye,Eğitim,Yüksek,5085,70.7
+2014,Türkiye,Faaliyet Kolu,Tarım,5470,
+2014,Türkiye,Faaliyet Kolu,Sanayi,7227,
+2014,Türkiye,Faaliyet Kolu,Hizmet,13235,
+2014,Türkiye,İş Yeri Büyüklüğü,10 ve Daha,14608,
+2014,Türkiye,İş Yeri Büyüklüğü,11-19 Kişi,1329,
+2014,Türkiye,İş Yeri Büyüklüğü,20-49 Kişi,3333,
+2014,Türkiye,İş Yeri Büyüklüğü,50 veya Daha,6124,
+2014,Türkiye,İş Yeri Büyüklüğü,"Bilmiyor, Fakat ",250,
+2014,Türkiye,İş Yeri Büyüklüğü,"Bilmiyor, Fakat ",290,
+2014,Türkiye,İşteki durum,"Ücretli, Maaşlı ",17125,
+2014,Türkiye,İşteki durum,Kendi Hesabına ,5652,
+2014,Türkiye,İşteki durum,Ücretsiz Aile,3155,
+2014,Türkiye,SGK Kayıt,Kayıtlı,16864,
+2014,Türkiye,SGK Kayıt,Kayıtlı ,9069,
+2014,Türkiye,Tarım,Tarım,5470,
+2014,Türkiye,Tarım,Tarım Dışı,20462,
